@@ -1,4 +1,4 @@
-name: Coastal_Coders_Final_project
+name: HW2_env
 channels:
   - conda-forge
   - defaults
@@ -19,8 +19,9 @@ dependencies:
   - geojson
   - shapely
   - rtree
-  - pip
-  - datetime
-  - os
-  - json
-  - csv
+  -pip
+  - pip:
+    - datetime
+    - os 
+    - json
+    - csv
