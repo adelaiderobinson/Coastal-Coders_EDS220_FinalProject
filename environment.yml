@@ -19,7 +19,7 @@ dependencies:
   - geojson
   - shapely
   - rtree
-  -pip
+  - pip
   - pip:
     - datetime
     - os 
