@@ -43,5 +43,5 @@ The raw data read into the file is housed under a shared folder in a server call
 - Adelaide Robinson, Master of Environmental Data Science Student, (adelaide_robinson@ucsb.edu)
 
 launch with myBinder
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/<path to your repo>)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/<https://github.com/adelaiderobinson/Coastal-Coders_EDS220_FinalProject>)
 
