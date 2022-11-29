@@ -1,8 +1,3 @@
-name: HW2_env
-channels:
-  - conda-forge
-  - defaults
-dependencies:
   - python
   - numpy
   - matplotlib
@@ -20,8 +15,3 @@ dependencies:
   - shapely
   - rtree
   - pip
-  - pip:
-    - datetime
-    - os 
-    - json
-    - csv
