@@ -17,6 +17,8 @@ The purpose of this repository is to provide a walk-through of how to utilize NO
 # Data Citation:
 - Department of Commerce, National Oceanic and Atmospheric, Administration, Office Of National Marine Sanctuaries (, National Marine Protected, and Areas Center. 2020. “NOAA’s Marine Protected Areas Inventory - 2020 - IUCN MPAs.” https://marineprotectedareas.noaa.gov/dataanalysis/mpainventory/.
 - “Sea Otter Range - CWHR M164 [Ds1946].” n.d. Accessed November 29, 2022. https://data-cdfw.opendata.arcgis.com/datasets/CDFW::sea-otter-range-cwhr-m164-ds1946/explore?location=34.902570,-120.447472,7.00.
+- “Strongylocentrotus Purpuratus (Stimpson, 1857).” n.d. Accessed November 29, 2022. https://www.gbif.org/species/2278852.
+
 
 
 
