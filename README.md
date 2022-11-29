@@ -41,3 +41,6 @@ The raw data read into the file is housed under a shared folder in a server call
 - Atahualpa Gomez, Master of Environmental Data Science Student, (atahualpa@ucsb.edu)
 - Jared Petry, Master of Environmental Data Science Student, (jaredpetry@ucsb.edu)
 - Adelaide Robinson, Master of Environmental Data Science Student, (adelaide_robinson@ucsb.edu)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adelaiderobinson/Coastal-Coders_EDS220_FinalProject/HEAD)
+
