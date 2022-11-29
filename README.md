@@ -41,3 +41,7 @@ The raw data read into the file is housed under a shared folder in a server call
 - Atahualpa Gomez, Master of Environmental Data Science Student, (atahualpa@ucsb.edu)
 - Jared Petry, Master of Environmental Data Science Student, (jaredpetry@ucsb.edu)
 - Adelaide Robinson, Master of Environmental Data Science Student, (adelaide_robinson@ucsb.edu)
+
+launch with myBinder
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/<path to your repo>)
+
