@@ -20,5 +20,4 @@ dependencies:
   - geojson
   - shapely
   - os
-  - geojson
   - rtree
