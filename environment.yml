@@ -19,3 +19,4 @@ dependencies:
   - folium
   - geojson
   - shapely 
+  - rtree
