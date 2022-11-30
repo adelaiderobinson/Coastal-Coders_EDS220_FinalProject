@@ -19,3 +19,6 @@ dependencies:
   - folium
   - geojson
   - shapely
+  - os
+  - geojson
+  - rtree
