@@ -20,3 +20,4 @@ dependencies:
   - geojson
   - shapely 
   - rtree
+  - requests
