@@ -7,8 +7,6 @@ dependencies:
   - python
   - numpy
   - matplotlib
-  - pandas
-  - geopandas
   - contextily
   - rasterio
   - scipy
@@ -21,3 +19,7 @@ dependencies:
   - shapely 
   - rtree
   - requests
+  - pip
+  - pip:
+    - geopandas
+  
