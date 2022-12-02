@@ -21,3 +21,4 @@ dependencies:
   - shapely 
   - rtree
   - requests
+  - Fiona
