@@ -16,6 +16,7 @@ dependencies:
   - netcdf4==1.5.1
   - folium
   - geojson
+  - mapclassify
   - shapely 
   - rtree
   - requests
