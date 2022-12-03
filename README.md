@@ -22,7 +22,7 @@ The purpose of this repository is to provide a walk-through of how to utilize NO
 
 
 # Folder Structures:
-If working outside a binder environment, the raw data read into the file is housed under a shared folder in a UCSB Master of Environmental Data Science server called “Taylor”. Access to the data from the server is limited. The data can be downloaded [here](https://marineprotectedareas.noaa.gov/dataanalysis/mpainventory/). The repository can be run in a binder environment without data download. 
+If working outside a binder environment, the raw data read into the notebook is housed under a shared folder in a UCSB Master of Environmental Data Science server called “Taylor”. Access to the data from the server is limited. The data can be downloaded [here](https://marineprotectedareas.noaa.gov/dataanalysis/mpainventory/). The repository can be run in a binder environment without data download. 
 
 # Libraries Used:
 - Geopandas
